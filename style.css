@@ -126,7 +126,6 @@ img {
     left: 50%;
     position: absolute;
     padding-top: 250px;
-    size:50%;
 }
 
 
@@ -177,10 +176,10 @@ img {
 }
 
 #button1{
-    position:absolute; top: 76%; right: 54.830918%;  /* 828/2-120=294 294/2=147*/
+    position:absolute; bottom: 10%; right: 54.830918%;  /* 828/2-120=294 294/2=147*/
 }
 
 #button2{
-    position:absolute; top:76%; left: 54.830918%; /* 828/2+20=434 434/2=217*/
+    position:absolute; bottom: 10%; left: 54.830918%; /* 828/2+20=434 434/2=217*/
 }
 
